@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Trading Bot | volatility-detection + event-driven-trading offers the most advanced Polymarket trading-bot, with volatility-detection and
 
 
 
